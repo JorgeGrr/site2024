@@ -1,9 +1,15 @@
 @charset "UTF-8";
 
 body{
-    background-color:Black;
-    color:white;
+    background-image: linear-gradient(to right, rgb(131, 171, 218) , gray);
+    color:black;
     font-size: 12pt;
     font-family:Arial;
+    
+}
 
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
